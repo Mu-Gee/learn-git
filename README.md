@@ -10,3 +10,6 @@ It's a long journey ahead, buckle up!
 
 This is more than expected.
 
+## Local Development
+
+1. Open index.html in your browser
