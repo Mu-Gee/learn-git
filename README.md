@@ -15,3 +15,5 @@ This is more than expected.
 1. Open index.html in your browser
 
 This is a test commit for a fresh install
+
+Yet a new install
